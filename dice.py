@@ -1,7 +1,7 @@
 import random
 print("This is a dice stimulator")
 x = "y"
-
+#CLI Dice roller
 while x == "y":
     number = random.randint(1,6)
 
